@@ -1,3 +1,3 @@
 # ascii
 
-Demonstration of a perlin noise implementation that renders ascii characters in the terminal.
+Demonstration of several noise algorithms in the terminal.
